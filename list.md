@@ -6,6 +6,7 @@
  * [ ]  Macro camera unavailable
  * [ ]  60 FPS Video recording missing
  * [X]  UI Lags
+ * [ ]  Zoom metting force close once video enabled
 
 
 ### Notes:
