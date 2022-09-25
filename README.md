@@ -1,6 +1,6 @@
 # chimeOSS Issues
 
-This repository contains all information known issues that appears on chimeOSS. Feel free to report your issue.
+This repository contains all information known issues that appears on chimeOSS. Feel free to report your issue. You can see the list [here](https://github.com/chimeOSS/issues/blob/main/list.md).
 
 ## Supported builds
 
