@@ -3,6 +3,10 @@
 ## Reported Issues
  * [ ]  Random reboot while downloading using data
  * [ ]  Small audio on video recording
+ * [ ]  Macro camera unavailable
+ * [ ]  60 FPS Video recording missing
+ * [X]  UI Lags
+
 
 ### Notes:
  * [ ]  Need to be fixed
